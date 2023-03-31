@@ -1,0 +1,15 @@
+/* abc dbdbdbdbbddbdb */
+/*This is a multi-line comment.
+It can span multiple lines.
+It is enclosed between
+*/
+//single line comment
+public class Example {
+    public static void main(String[] args) { //one more single line comment
+        int x = 5;
+        double y = 10.69;
+        int z = x + y;
+        while (t < lower) r = 28.00;
+        System.out.println("The value of z is " + 'a' + z);
+    }
+}
