@@ -5,14 +5,17 @@ Team Members:
 2. Pratyush Sahu
 
 Requirements:
-1> An IDE like Intellij or Eclipse and Java run time environment.
-We used intelliJ IDE for our project to design the Lexer.
+1> An IDE of your choice.
+2> Java run time environment.
 
 To run the program:
 
-1. Download the zip file "Lexer2".
-2. Go to any IDE and import all the files extracted from Lexer.
-3. You must have input_scode.txt file in your directory before running the program
-4. Run the Main.java file. 
-5. See output in "output.txt".
+1. Clone the repository by executing the following command in your terminal:
+   git clone https://github.com/bhartiCsu/Lexer.git
+2. Once the cloning process is completed, a folder named 'Lexer' will get downloaded in the directory where you ran the git clone command.
+3. Open your preferred IDE and import the downloaded project folder into the IDE.
+4. Open the 'Main' class of the project.
+5. Run the 'Main' class.
+6. The program will execute, and you will see the output in the output.txt file which is present in the Lexer folder.
 
+Note: Make sure you have the Java run time environment installed in your system before running the program.
