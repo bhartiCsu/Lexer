@@ -10,6 +10,7 @@ Requirements:
 
 To run the program:
 
+<<<<<<< HEAD
 1. Clone the repository by executing the following command in your terminal:
    git clone https://github.com/bhartiCsu/Lexer.git
 2. Once the cloning process is completed, a folder named 'Lexer' will get downloaded in the directory where you ran the git clone command.
